@@ -32,6 +32,8 @@ Wiring - [link](https://github.com/nodebotsau/simplebot/blob/master/examples/wir
 
 
 
+Other links
 
+- https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 
