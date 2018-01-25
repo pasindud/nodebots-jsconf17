@@ -35,5 +35,6 @@ Example - [links](https://github.com/ajfisher/node-pixel)
 Other links
 
 - https://docs.npmjs.com/getting-started/fixing-npm-permissions
+- https://www.npmjs.com/package/barcli (Terminal charting)
 
 
