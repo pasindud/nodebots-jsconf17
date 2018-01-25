@@ -5,7 +5,7 @@
 -   Install [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 -   Install latest nodejs
 
-## Initial Step
+## Installing firmata
 We need to flash the arduino with firmata.
 - Open Arduino IDE -> Example -> Firmata -> Standard firmata
 - Compile -> Upload
